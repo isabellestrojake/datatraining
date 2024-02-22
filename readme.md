@@ -72,5 +72,4 @@ ________
 
 [![WomakersCode](https://img.shields.io/badge/WomakersCode-%23fe857e?style=for-the-badge)](https://womakerscode.org/)
 
->>>>>>> origin/main
 [![MaisMulheresTech](https://img.shields.io/badge/MaisMulheresTech-fe857e?style=for-the-badge)](https://www.maismulheres.tech/)
